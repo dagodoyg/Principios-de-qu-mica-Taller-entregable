@@ -90,18 +90,18 @@ El proceso es el más simple, se grafica $V$ en función de la concentración in
 
 ![alt text](https://github.com/dagodoyg/Principios-de-qu-mica-Taller-entregable/blob/main/MODELOS_CINETICOS/IMAGE/mm.png?raw=true)
 
-Los resultados de este método suelen ser muy malos, debido a que es complicado identificar cuando se alcanza realmente $V_{max}$ [6].
+Los resultados de este método suelen ser muy malos, debido a que es complicado identificar cuando se alcanza $V_{max}$ [6].
 
 ## ****Diagrama de Lineweaver-Burk****
 
-Se invierte la ecuación (2) y se utilizan los recíprocos de la velocidad y la concentración de sustrato para linealizar la curva.
+Se invierte la ecuación (2) y se utilizan los recíprocos de la velocidad y la concentración de sustrato para linealizar la curva, lo que proporciona resultados más confiables.
 
 $$
 \frac{1}{V} = \frac{k_m}{V_{max}}\frac{1}{[S]} + \frac{1}{V_{max}}
 $$
 
 
-Debido a la inversión, el error experimental se propaga con mayor intensidad, causando que a muy bajas concentraciones, los resultados obtenidos sean poco confiables [6].
+Debido a la inversión, el error experimental se propaga con mayor velocidad, causando que a muy bajas concentraciones, los resultados obtenidos sean poco precisos [6].
 
 
 # ****Referencias****
