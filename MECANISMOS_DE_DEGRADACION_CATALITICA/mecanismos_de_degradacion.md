@@ -81,7 +81,7 @@ Oxidación controlada (quemado del coke) con aire o O2 diluido; tratamientos con
 - **TGA / Raman / IR / DRIFTS:** caracterización del tipo de coke y grupos orgánicos adsorbidos.  
     \[3\], \[8\]-\[10\]
 
-# ****Referencias - Formato IEEE****
+# ****Referencias****
 
 \[1\] C. H. Bartholomew, "Mechanisms of catalyst deactivation," Catalysts, vol. 5, pp. 356-369, 2015.  
 \[2\] P. Forzatti and L. Lietti, "Catalyst deactivation," Catalysis Today, vol. 52, pp. 165-181, 1999.  
