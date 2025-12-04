@@ -43,5 +43,5 @@ $$
 La concentración total de enzima en el sistema es la suma de las concentraciones de enzima libre $\left[E\right]$ y enzima fijada en los sitios activos del sustrato $\left[ES\right]$, es decir, $\left[E\right]_T=\left[E\right]+\left[ES\right]$. De donde $\left[E\right]=\left[E\right]_T-\left[ES\right]$. Así
 
 $$
-\left(\left[E\right]_T-\left[ES\right]\right)\left[S\right]=k_m\left[ES\right]
+\left(\left[E\right]_T-\left[ES\right]\right)\left[S\right]=k_m\left[ES\right]\longrightarrow \left[ES\right]=\frac{\left[E\right]_T}{k_m+\left[S\right]}
 $$
