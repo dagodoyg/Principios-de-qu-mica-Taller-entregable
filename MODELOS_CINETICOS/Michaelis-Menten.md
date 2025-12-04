@@ -5,7 +5,9 @@
 Las enzimas son un grupo de proteínas especializadas [1] que actúan como catalizadores altamente selectivos en reacciones bioquímicas, razón por la que son esenciales para los sistemas vivos, pues aceleran en ordenes de magnitud la velocidad de reacciones que de otra manera serían inviables en condicones normales [2]. Al precursor al que se fija una enzima en particular durante la catálisis se le denomina sustrato [2]. 
 
 
-Debido a su alto grado de especialización, alteraciones a la estructura de una enzima fácilmente pueden dejarla incapaz de catalizar la reacción para la que se sintetizó, esto se conoce como inhibición enzimática, aunque existen otros mecanismos de inhibición.
+Debido a su alto grado de especialización, alteraciones a la estructura de una enzima fácilmente pueden dejarla incapaz de catalizar la reacción para la que se sintetizó. Por ejemplo, todas las enzimas contienen aminoácidos con grupos radicales ionizables, por lo que son muy sensibles a cambios en el pH; alteraciones del pH en el medio pueden causar la modificación de la distribución de carga y en últimas desnaturalizar la ezima, inhibiendo su acción catalítica [2]. Una temperatura excesiva también puede desnaturalizar las enzimas y la presencia de ciertos compuestos, llamados inhibidores enzimaticos causan una disminución en la velocidad de las reacciones.
+
+Todos estos efectos pueden ser modelados, hasta cierto punto, a través de la cinética de Michaelis-Menten
 
 
 # ****1\. Modelo cinético de Michaelis-Menten****
@@ -58,7 +60,7 @@ Es la ecuación de Michaelis-Menten. Nótese que si $[S]=k_m$, entonces  $\frac{
 
 # ****2\. Inhibición catalítica****
 
-Además de los factores usuales que pueden afectar el valor de $k_m$ como la temperatura o el pH [3], también existe un conjunto de sustancias conocidas como inhibidores enzimaticos que reducen o bloquean la catálisis enzimática, evitando la formación de producto. Se separa la inhibición en 2 categorías
+Además de los factores usuales que pueden afectar el valor de $k_m$ como la temperatura o el pH [2,3], también existe un conjunto de sustancias conocidas como inhibidores enzimaticos que reducen o bloquean la catálisis enzimática, evitando la formación de producto. Se separa la inhibición en 2 categorías
 
 ## ****Inhibición reversible****
 
