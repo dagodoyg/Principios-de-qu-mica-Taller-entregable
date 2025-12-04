@@ -32,7 +32,7 @@ La velocidad de formación de producto varía linealmente con la concentración 
 
 $$
 \begin{align}
-\frac{\partial [P]}{\partial t} = k_c[ES] \label{A1}
+\frac{\partial [P]}{\partial t} = k_c[ES] \quad (1)
 \end{align}
 $$
 
@@ -48,4 +48,8 @@ $$
 \left(\left[E\right]_T-\left[ES\right]\right)\left[S\right]=k_m\left[ES\right]\longrightarrow \left[ES\right]=\frac{\left[E\right]_T \left[S\right]}{k_m+\left[S\right]}
 $$
 
-Sustituyendo en la ecuación $\ref{A1}$
+Sustituyendo en la ecuación (1) 
+
+$$
+\frac{\partial P}{\partial t} = k_c\frac{[E]_T[S]}{k_m + [S]}
+$$
