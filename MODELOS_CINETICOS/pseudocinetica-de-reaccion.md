@@ -42,6 +42,8 @@ Que es la pseudo-cinética de la reacción (1) aislando $C$. Realizar el método
 # ****Referencias****
 
 \[1\] "Physical and Theoretical Chemistry", Chemistry Libre Texts.
+
 \[2\] Fiveable Content Team, "Chemical kinetics study guides, Unit 3", Fiveable.
+
 \[3\] S. Lower, "Chem 1", Chemistry Libre Texts.
 
