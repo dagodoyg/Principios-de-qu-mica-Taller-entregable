@@ -2,7 +2,7 @@
 
 ## ****Enzimas****
 
-Las enzimas son un grupo de proteínas especializadas [1] que actúan como catalizadores altamente selectivos en reacciones bioquímicas, razón por la que son esenciales para los sistemas vivos, pues aceleran en ordenes de magnitud la velocidad de reacciones que de otra manera serían inviables en condicones normales [2]. Al precursor al que se fija una enzima en particular durante la catálisis se le denomina sustrato [2]. 
+Las enzimas son un grupo de proteínas especializadas que actúan como catalizadores altamente selectivos en reacciones bioquímicas [1], razón por la que son esenciales para los sistemas vivos, pues aceleran en ordenes de magnitud la velocidad de reacciones que de otra manera serían inviables en condicones normales [2]. Al precursor al que se fija una enzima en particular durante la catálisis se le denomina sustrato [2]. 
 
 
 Debido a su alto grado de especialización, alteraciones a la estructura de una enzima fácilmente pueden dejarla incapaz de catalizar la reacción para la que se sintetizó. Por ejemplo, todas las enzimas contienen aminoácidos con grupos radicales ionizables, por lo que son muy sensibles a cambios en el pH; alteraciones del pH en el medio pueden causar la modificación de la distribución de carga y en últimas desnaturalizar la ezima, inhibiendo su acción catalítica [2]. Una temperatura excesiva también puede desnaturalizar las enzimas y la presencia de ciertos compuestos, llamados inhibidores enzimaticos causan una disminución en la velocidad de las reacciones.
@@ -50,7 +50,7 @@ $$
 \frac{\partial P}{\partial t} = k_c\frac{[E]_T[S]}{k_m + [S]}
 $$
 
-Si la concentración de sustrato $[S]$ es mucho mayor a $k_m$, entonces \frac{\partial P}{\partial t}_{[S]\gg k_m} = k_c[E]_T = V_{max}, es la velocidad máxima de la reacción, puesto que en este estado casi toda la enzima se encuentra ligada a los sitios activos del sustrato y la velocidad de formación de producto ya no depende de la concentración de sustrato. Así
+Si la concentración de sustrato $[S]$ es mucho mayor a $k_m$, entonces $\frac{\partial P}{\partial t}_{[S]\gg k_m} = k_c[E]_T = V_{max}$, es la velocidad máxima de la reacción, puesto que en este estado casi toda la enzima se encuentra ligada a los sitios activos del sustrato y la velocidad de formación de producto ya no depende de la concentración de sustrato. Así
 
 $$
 \frac{\partial P}{\partial t} = \frac{V_max[S]}{k_m + [S]}
