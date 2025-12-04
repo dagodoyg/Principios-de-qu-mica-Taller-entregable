@@ -36,7 +36,7 @@ $$
 V\approx k_{eff}[C]^c
 $$
 
-Que es la pseudo-cinética de la reacción (1) aislando $C$. Realizar el método de velocidades iniciales sobre esta pseudo-cinética da un valor aproximado del orden de reacción del reactivo aislado [2]. El resultado se aproxima asintóticamente entre menor sea la cantidad de reactivo aislado respecto a los reactivos en exceso.
+Que es la pseudo-cinética de la reacción (1) aislando $C$. Realizar el método de velocidades iniciales sobre esta pseudo-cinética da un valor aproximado del orden de reacción del reactivo aislado [2], que se aproxima asintóticamente al valor rea entre menor sea la cantidad de reactivo aislado respecto a los reactivos en exceso.
 
 
 # ****Referencias****
