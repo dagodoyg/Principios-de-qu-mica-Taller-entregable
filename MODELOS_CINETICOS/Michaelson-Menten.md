@@ -1,4 +1,4 @@
-# ****1\. Modelo cinético de Michaelson-Menten ****
+# ****1\. Modelo cinético de Michaelson-Menten****
 
 Se modela la velocidad de una reacción catalizada por enzimas. Es de uso común en biología pues se usa para describir la absorción de nutrientes por parte de células cultivadas. 
 
@@ -8,7 +8,7 @@ $$
 
 La enzima $E$ interactua con el sustrato $S$ para formar un complejo $[ES]$. Posteriormente, este complejo se descompone, consumiendo el sustrato, regenerando la enzima y produciendo un producto $P$. $k_f,k_r$ son las constantes de velocidad de asociación y disociación ezima-sustrato respectivamente; $k_c$ es la constante de velocidad de disociación del complejo para la formación del producto.
 
-## **** Aproximación de rápido equilibrio ****
+## ****Aproximación de rápido equilibrio****
 
 La velocidad de formación de producto varía linealmente con la concentración de complejo
 
@@ -26,7 +26,7 @@ $$
 
 
 
-## **** Aproximación de estado estable ****
+## ****Aproximación de estado estable****
 
 La velocidad de formación de producto varía linealmente con la concentración de complejo
 
