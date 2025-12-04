@@ -19,8 +19,9 @@ $$
 
 La condición de rápido equilibrio implica que en el estado inicial, la formación y disociación de complejo suceden a la misma velocidad
 
-\begin{align}
+$$
+\begin{aligned*}
 k_f\left[E\right]\left[S\right]=k_r\left[ES\right] + k_c\left[ES\right]\longrightarrow \frac{\left[E\right]\left[S\right]}{\left[ES\right]}=\frac{k_c+k_r}{k_f}
-\end{align}
-
+\end{aligned*}
+$$
 
