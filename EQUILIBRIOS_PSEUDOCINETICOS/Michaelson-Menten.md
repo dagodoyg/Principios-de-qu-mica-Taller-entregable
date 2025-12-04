@@ -31,9 +31,9 @@ $$
 La velocidad de formación de producto varía linealmente con la concentración de complejo
 
 $$
-\beging{equation}
+\beging{align}
 \frac{\partial [P]}{\partial t} = k_c[ES] \label{A1}
-\end{equation}
+\end{align}
 $$
 
 La condición de estado estable implica que en el estado inicial, la formación y disociación de complejo suceden a la misma velocidad
