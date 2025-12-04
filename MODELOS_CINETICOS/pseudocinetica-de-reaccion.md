@@ -30,7 +30,7 @@ $$
 [B]_f = [A]_f=0.99[A]_0\approx [A]_0,[C]_f = 0
 $$
 
-Se puede suponer entonces que $[A]=[B]=[A]_0=\text{cte}$ durante toda la reacción, entonces la cinética deescrita en la ecuación (2) queda de la forma
+Se puede suponer entonces que $[A]=[B]=[A]_0=\text{cte}$ durante toda la reacción, entonces la cinética descrita en la ecuación (2) queda de la forma
 
 $$
 V\approx k_{eff}[C]^c
