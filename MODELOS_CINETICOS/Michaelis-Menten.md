@@ -57,7 +57,7 @@ $$\left[\frac{\partial P}{\partial t}\right]_{[S]\gg k_m} = k_c[E]_T = V_{max}$$
 Es la velocidad máxima de la reacción, puesto que en este estado casi toda la enzima se encuentra ligada a los sitios activos del sustrato y la velocidad de formación de producto ya no depende de la concentración de sustrato. Así
 
 $$
-\frac{\partial P}{\partial t} = \frac{V_max[S]}{k_m + [S]} \quad (2) = V
+\frac{\partial P}{\partial t} = \frac{V_{max}[S]}{k_m + [S]}=V \quad (2)
 $$
 
 Es la ecuación de Michaelis-Menten. Nótese que si $[S]=k_m$, entonces  $\frac{\partial P}{\partial t} = \frac{V_max}{2}$, luego $k_m$ es la concentración necesaria de sustrato para que la velocidad de reacción sea la mitad de la máxima posible, que sucede cuando aproximadamente la mitad del sustrato se encuentran ligados a la enzima. Finalmente, si $[S]\ll k_m$, entonces $\frac{\partial P}{\partial t} = \frac{V_max[S]}{k_m}$, la velocidad de la reacción sigue una cinética de primer orden [3].
