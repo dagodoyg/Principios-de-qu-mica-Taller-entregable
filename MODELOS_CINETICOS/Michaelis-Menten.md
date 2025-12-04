@@ -88,7 +88,7 @@ La cinética de Michaelis-Menten queda totalmente determinada para una reacción
 
 El proceso es el más simple, se grafica $V$ en función de la concentración inicial y se estiman los parámetros visualmente
 
-![alt text](https://github.com/dagodoyg/Principios-de-qu-mica-Taller-entregable/blob/main/MODELOS_CINETICOS/IMAGE/Figure_1.png?raw=true)
+![alt text](https://github.com/dagodoyg/Principios-de-qu-mica-Taller-entregable/blob/main/MODELOS_CINETICOS/IMAGE/mm.png?raw=true)
 
 Los resultados de este método suelen ser muy malos, debido a que es complicado identificar cuando se alcanza realmente $V_{max}$ [6].
 
