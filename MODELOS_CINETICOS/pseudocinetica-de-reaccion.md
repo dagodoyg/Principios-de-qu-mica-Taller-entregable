@@ -14,7 +14,7 @@ $$
 
 Experimentalmente, resulta altamente complejo hallar los ordenes de reacción $a,b,c$, puesto que supone medir simultaneamente las tres concentraciones [1]; si bien existen métodos como el de velocidades iniciales, en general no resulta productivo para cinéticas que involucran dos o más reactivos [3], especialmente si son costosos o si el mecanismo de reacción es muy complejo [2]. 
 
-Para reacciones irreversibles, sin reacciones secundarias relevantes y con mecanismos de reacción no afectados por la concentración de los reactivos [2], es posible plantear una pseudo-cinética para la reacción mediante el método de aislamiento [1]. 
+Para reacciones irreversibles, sin reacciones secundarias relevantes y con mecanismos de reacción no afectados por la concentración de los reactivos [2], es posible plantear una pseudo-cinética mediante el método de aislamiento [1]. 
 
 ## ****Método de aislamiento****
 
