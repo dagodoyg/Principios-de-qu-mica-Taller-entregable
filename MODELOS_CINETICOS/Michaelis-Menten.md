@@ -52,7 +52,7 @@ $$
 
 Si la concentración de sustrato $[S]$ es mucho mayor a $k_m$, entonces 
 
-$$\frac{\partial P}{\partial t}_{[S]\gg k_m} = k_c[E]_T = V_{max}$$
+$$\left[\frac{\partial P}{\partial t}\right]_{[S]\gg k_m} = k_c[E]_T = V_{max}$$
 
 Es la velocidad máxima de la reacción, puesto que en este estado casi toda la enzima se encuentra ligada a los sitios activos del sustrato y la velocidad de formación de producto ya no depende de la concentración de sustrato. Así
 
