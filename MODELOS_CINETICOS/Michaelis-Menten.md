@@ -86,14 +86,14 @@ El proceso es el más simple, se grafica $V$ en función de la concentración in
 
 ### Insertar imagen
 
-Los resultados de este método suelen ser muy malos, debido a que es complicado identificar cuando se alcanza realmente $V_max$ [6].
+Los resultados de este método suelen ser muy malos, debido a que es complicado identificar cuando se alcanza realmente $V_{max}$ [6].
 
 ## ****Diagrama de Lineweaver-Burk****
 
 Se invierte la ecuación (2) y se utilizan los recíprocos de la velocidad y la concentración de sustrato para linealizar la curva.
 
 $$
-\frac{1}{V} = \frac{k_m}{V_max}\frac{1}{[S]} + \frac{1}{V_max}
+\frac{1}{V} = \frac{k_m}{V_{max}}\frac{1}{[S]} + \frac{1}{V_{max}}
 $$
 
 ### Insertar imagen
