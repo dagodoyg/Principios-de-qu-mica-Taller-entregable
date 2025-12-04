@@ -95,8 +95,12 @@ El inhibidor reacciona con algún grupo funcional de la enzima (por lo general e
 # ****Referencias****
 
 \[1\]"Physical Chemistry for the Biosciences", Chemistry Libre Texts.
+
 \[2\]J. M. Pérez and M. J. Noriega, "Fisiología general, Tema 2B-Bloque I: Enzimas", Universidad de Cantabria.
+
 \[3\]University of Arkansas Little Rock, "CHEM 4320/5320: Biochemistry 1", Chemistry Libre Texts.
+
 \[4\]J. F. Wong, C. A. Simmons, E. W. K. Young, "Modeling and Measurement of Biomolecular Transport and Sensing in Microfluidic Cell Culture and Analysis Systems", Science Direct- Academic Press, 2017.
+
 \[5\]Universidad de Huelva, Apuntes de la asignatura Bioquímica, "Tema 8. Enzimas II", 2008.
 
