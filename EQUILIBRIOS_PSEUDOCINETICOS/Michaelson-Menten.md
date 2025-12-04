@@ -31,7 +31,7 @@ $$
 La velocidad de formación de producto varía linealmente con la concentración de complejo
 
 $$
-\beging{align}
+\begin{align}
 \frac{\partial [P]}{\partial t} = k_c[ES] \label{A1}
 \end{align}
 $$
