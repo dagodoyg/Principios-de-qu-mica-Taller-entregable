@@ -5,3 +5,5 @@ Se modela la velocidad de una reacción catalizada por enzimas. Es de uso común
 $$
 E+S\overset{k_1}{\longrightarrow}\left[ES\right]\overset{k_2}{\longrightarrow} E+P
 $$
+
+La enzima $E$ interactua con el sustrato $S$
