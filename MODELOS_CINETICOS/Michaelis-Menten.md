@@ -53,7 +53,7 @@ $$
 Si la concentración de sustrato $[S]$ es mucho mayor a $k_m$, entonces $\frac{\partial P}{\partial t}_{[S]\gg k_m} = k_c[E]_T = V_{max}$, es la velocidad máxima de la reacción, puesto que en este estado casi toda la enzima se encuentra ligada a los sitios activos del sustrato y la velocidad de formación de producto ya no depende de la concentración de sustrato. Así
 
 $$
-\frac{\partial P}{\partial t} = \frac{V_max[S]}{k_m + [S]}
+\frac{\partial P}{\partial t} = \frac{V_max[S]}{k_m + [S]} \quad (2) = V
 $$
 
 Es la ecuación de Michaelis-Menten. Nótese que si $[S]=k_m$, entonces  $\frac{\partial P}{\partial t} = \frac{V_max}{2}$, luego $k_m$ es la concentración necesaria de sustrato para que la velocidad de reacción sea la mitad de la máxima posible, que sucede cuando aproximadamente la mitad del sustrato se encuentran ligados a la enzima. Finalmente, si $[S]\ll k_m$, entonces $\frac{\partial P}{\partial t} = \frac{V_max[S]}{k_m}$, la velocidad de la reacción sigue una cinética de primer orden [3].
@@ -76,6 +76,31 @@ El inhibidor enzimatico se une mediante un enlace no covalente y débil al sustr
 
 El inhibidor reacciona con algún grupo funcional de la enzima (por lo general el sitio activo) y forma un enlace covalente permanente [5], volviendola incapaz de catalizar la reacción. En su mayoría, los inhibidores irreversibles son sustancias altamente tóxicas para los organismos vivos. Aumenta el $k_m$ efectivo de forma similar al inhibidor competitivo.
 
+# ****3\. Diagramas de velocidad de reacción****
+
+La cinética de Michaelis-Menten queda totalmente determinada para una reacción enzimática si se conocen $V_{max}$ y $k_m$, para ello se requieren datos experimentales sobre la velocidad de reacción y la concentración de sustrato, por lo general, debido a que son datos más precisos, se usan los valores iniciales de velocidad y se mide varias veces para distintas concentraciones iniciales [6]. Existen múltiples método gráficos para obtener las constantes de la reacción.
+
+## ****Diagrama de Michaelis-Menten****
+
+El proceso es el más simple, se grafica $V$ en función de la concentración inicial y se estiman los parámetros visualmente
+
+### Insertar imagen
+
+Los resultados de este método suelen ser muy malos, debido a que es complicado identificar cuando se alcanza realmente $V_max$ [6].
+
+## ****Diagrama de Lineweaver-Burk****
+
+Se invierte la ecuación (2) y se utilizan los recíprocos de la velocidad y la concentración de sustrato para linealizar la curva.
+
+$$
+\frac{1}{V] = \frac{k_m}{V_max}\frac{1}{[S]} + \frac{1}{V_max}
+$$
+
+### Insertar imagen
+
+Debido a la inversión, el error experimental se propaga con mayor intensidad, causando que a muy bajas concentraciones, los resultados obtenidos sean poco confiables [6].
+
+
 # ****Referencias****
 
 \[1\] "Physical Chemistry for the Biosciences", Chemistry Libre Texts.
@@ -88,3 +113,4 @@ El inhibidor reacciona con algún grupo funcional de la enzima (por lo general e
 
 \[5\] Universidad de Huelva, Apuntes de la asignatura Bioquímica, "Tema 8. Enzimas II", 2008.
 
+\[6\] P. M. Doran, "Bioprocess Engineering Principles", Science Direct - Academic Press, 1995.
