@@ -100,7 +100,6 @@ $$
 \frac{1}{V} = \frac{k_m}{V_{max}}\frac{1}{[S]} + \frac{1}{V_{max}}
 $$
 
-### Insertar imagen
 
 Debido a la inversión, el error experimental se propaga con mayor intensidad, causando que a muy bajas concentraciones, los resultados obtenidos sean poco confiables [6].
 
