@@ -40,5 +40,5 @@ $$
 k_f\left[E\right]\left[S\right]=k_r\left[ES\right] + k_c\left[ES\right]\longrightarrow\left[E\right]\left[S\right]=\frac{k_c+k_r}{k_f} \left[ES\right]=k_m\left[ES\right]
 $$
 
-La concentración total de enzima en el sistema es la suma de las concentraciones de enzima libre $\left[E\righte]$ y enzima fijada en los sitios activos del sustrato $\left[ES\right]$, es decir, $\left[E\right]_T=\left[E\right]+\left[ES\right]$
+La concentración total de enzima en el sistema es la suma de las concentraciones de enzima libre $\left[E\right]$ y enzima fijada en los sitios activos del sustrato $\left[ES\right]$, es decir, $\left[E\right]_T=\left[E\right]+\left[ES\right]$
 
