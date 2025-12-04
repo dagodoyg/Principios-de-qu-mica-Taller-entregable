@@ -93,7 +93,7 @@ Los resultados de este método suelen ser muy malos, debido a que es complicado 
 Se invierte la ecuación (2) y se utilizan los recíprocos de la velocidad y la concentración de sustrato para linealizar la curva.
 
 $$
-\frac{1}{V] = \frac{k_m}{V_max}\frac{1}{[S]} + \frac{1}{V_max}
+\frac{1}{V} = \frac{k_m}{V_max}\frac{1}{[S]} + \frac{1}{V_max}
 $$
 
 ### Insertar imagen
