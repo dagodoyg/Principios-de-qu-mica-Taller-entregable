@@ -31,7 +31,9 @@ $$
 La velocidad de formación de producto varía linealmente con la concentración de complejo
 
 $$
-\frac{\partial [P]}{\partial t} = k_c[ES]
+\beging{equation}
+\frac{\partial [P]}{\partial t} = k_c[ES] \label{A1}
+\end{equation}
 $$
 
 La condición de estado estable implica que en el estado inicial, la formación y disociación de complejo suceden a la misma velocidad
@@ -45,3 +47,5 @@ La concentración total de enzima en el sistema es la suma de las concentracione
 $$
 \left(\left[E\right]_T-\left[ES\right]\right)\left[S\right]=k_m\left[ES\right]\longrightarrow \left[ES\right]=\frac{\left[E\right]_T \left[S\right]}{k_m+\left[S\right]}
 $$
+
+Sustituyendo en la ecuación $\ref{A1}$
